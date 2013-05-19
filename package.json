@@ -1,0 +1,1 @@
+{"name":"jabber-rpc","version":"0.0.1","dependencies":{"node-xmpp":"0.3.x","uuid":"*","underscore":"*","sax":"*"}}
